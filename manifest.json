@@ -1,0 +1,12 @@
+{
+    "files": {
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "README.md": "635d04ebd5ce088052c8ee132c7adc54dcc1578cbe6bf4bb4a410479447bc338",
+        "index.js": "2afde40ed1d3bf0d91c3ce51001ef9cc35629c96362361f2519451aaf4916b00",
+        "module.json": "9e538f82b4f39acb4a7c20ed2f09bd8d093813a1c96d0e71503d3787e102673c"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_REFRESH": 2
+    }
+}
